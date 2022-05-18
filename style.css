@@ -1,0 +1,76 @@
+/* reset do CSS */
+    * {
+        margin: 0; padding: 0;
+    }
+    
+
+body { 
+    background: #C3D6E1;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;  
+}
+
+button { 
+    font-weight: bold;
+    background-color: yellow;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius:10px;
+    margin-top: 50px;
+    line-height: 25px;
+    width: 300px;
+}
+
+
+input {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    outline: none;
+    border-radius: 50px;
+    height: 22px;
+    /* width: 150px; */
+    /* padding: 14px 30px 14px 70px; */
+    border: 1px solid #A2CAFF;
+    transition: 500ms ease-in-out; 
+}
+
+form {  
+    margin-top:50px;
+}
+
+/* .container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: 20%;
+
+    
+} */
+
+.distancia {
+    margin-right: 30px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.altura {
+    line-height: 24px;  
+}
+
+label {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#font {
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
